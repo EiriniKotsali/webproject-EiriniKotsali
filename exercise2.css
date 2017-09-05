@@ -1,0 +1,11 @@
+ul.nav li{
+    display: inline-block;
+    padding-right: 10px;
+}
+#about_blue{
+  backround: blue;
+  border: 2px solid black;}
+  )
+  #about_yellow{
+  backround: yellow;
+  border: 2px solid black;}
